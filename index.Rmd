@@ -13,4 +13,6 @@ My name: Vera Yu
 
 My collaborator: Jingzhi Zhang
 
-![This is Leo](/Users/verayu/Desktop/IMG_5596.jpeg)
+
+![This is Leo](https://user-images.githubusercontent.com/123325489/219065072-05b9f686-618f-4d96-b973-ad9010507a6a.jpeg)
+
