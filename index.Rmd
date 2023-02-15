@@ -1,0 +1,16 @@
+---
+title: "Leo the Cat"
+author: "Vera Yu"
+date: "2023-02-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My name: Vera Yu
+
+My collaborator: Jingzhi Zhang
+
+![This is Leo](/Users/verayu/Desktop/IMG_5596.jpeg)

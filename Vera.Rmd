@@ -1,0 +1,17 @@
+---
+title: "Vera"
+author: "Vera Yu"
+date: "2023-02-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+
+* I love cats!
+
+* I love Harry Potter
+
+* I love chocolate :)
