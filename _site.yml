@@ -7,3 +7,9 @@ navbar:
       href: Vera.html
     - text: "Jingzhi"
       href: Jingzhi.html
+      output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true 
